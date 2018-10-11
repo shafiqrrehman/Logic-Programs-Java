@@ -1,2 +1,2 @@
 # Logic-Programs-Java
-Conditional + Control Statements + Looping + Star &amp; Number Patterns
+Practice Programs of Conditional + Control + Looping + Star &amp; Number Patterns for beginners...
